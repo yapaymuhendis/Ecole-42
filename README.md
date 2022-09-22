@@ -2,7 +2,7 @@
 Ecole 42 August Pool Training
 
 # Skills #
-[![muyavuz's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/stats?cursusId=9&coalitionId=248)](https://github.com/JaeSeoKim/badge42)
+[![ckahyaro's 42 stats](https://badge.mediaplus.ma/greenbinary/ckahyaro?UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Individual Projects
 
