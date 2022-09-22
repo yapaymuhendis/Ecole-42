@@ -2,7 +2,7 @@
 Ecole 42 August Pool Training.
 
 # Skills #
-https://badge.mediaplus.ma/greenbinary/ckahyaro?UM6P=off
+[![ckahyaro's 42 stats](https://badge.mediaplus.ma/greenbinary/ckahyaro?UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Individual Projects
 
